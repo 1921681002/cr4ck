@@ -4,6 +4,6 @@
   * pkg install python git
   * pip install requests bs4
   * rm -rf cr4ck
-  * git clone https://github.com/kinarworo/cr4ck
+  * git clone https://github.com/1921681002/cr4ck
   * cd cr4ck
   * python run.py
